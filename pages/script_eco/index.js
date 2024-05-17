@@ -13,3 +13,16 @@ fetch(apiUrl)
     nome_prof.innerText = data.professores[7].nome;
   })
   .catch(error => console.error('Error:', error));
+
+searchInput.addEventListener('input', () => {
+  const query = searchInput.value.toLowerCase();
+  highlightText(title, query);
+  highlightText(text, query);
+});
+
+function highlightText(element, query) {
+  const originalText = element.innerText;
+  const regex = new RegExp(`(${query})`, 'gi');
+  const highlightedText = originalText.replace(regex, '<span class="highlight">$1</span>');
+  element.innerHTML = highlightedText;
+}
