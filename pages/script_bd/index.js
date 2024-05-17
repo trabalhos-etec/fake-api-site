@@ -1,6 +1,7 @@
 const title = document.getElementById('title');
 const text = document.getElementById('text');
 const nome_prof = document.getElementById('nome_prof');
+const searchInput = document.getElementById('searchInput');
 
 const apiUrl = 'https://my-json-server.typicode.com/trabalhos-etec/fake-api/db';
 
