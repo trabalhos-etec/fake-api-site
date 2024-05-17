@@ -25,7 +25,7 @@ Este é um projeto desenvolvido como parte do componente "Programação Web III"
 
 ## Como usar
 
-1. Basta acessar clicar aqui.
+1. Basta acessar [`O SITE`](https://trabalhos-etec.github.io/fake-api-site/index.html) 
 
 ## Autores e Professora
 
