@@ -31,5 +31,5 @@ Este é um projeto desenvolvido como parte do componente "Programação Web III"
 
 ALUNO: *Luiz Gabriel Morato Dias* e *Sofia Defani* - 3ºA MTec - PI / Desenvolvimento de Sistemas.
 <br>
-PROFESSORA: *Alicia Stefany da Silva* - Programação de Aplicativos II.
+PROFESSORA: *Alicia Stefany da Silva* - Programação Web III.
 
